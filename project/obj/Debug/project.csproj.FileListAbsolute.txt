@@ -1,0 +1,11 @@
+E:\OneDrive\C#\projectSeven\main\project\bin\Debug\project.exe.config
+E:\OneDrive\C#\projectSeven\main\project\bin\Debug\project.exe
+E:\OneDrive\C#\projectSeven\main\project\bin\Debug\project.pdb
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.Form1.resources
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.Properties.Resources.resources
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.csproj.GenerateResource.cache
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.exe
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.pdb
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.Form2.resources
+E:\OneDrive\C#\projectSeven\main\project\obj\Debug\project.csprojAssemblyReference.cache
